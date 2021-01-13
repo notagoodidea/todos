@@ -13,7 +13,7 @@ The links may point to folder in this repo or to external repos.
 
 | Name | Author | Description/comments |
 | --- | --- | --- |
-| [App::Tasks](https://modules.raku.org/dist/App::Tasks:cpan:JMASLAK) | Joelle Maslak | This program provides basic to-do list management. The project was initially created by its author, Joelle Maslak, to solve her particular task tracking needs. However, it's likely to be useful to others as well. *(Description taken from the module repo)*|
+| [App::Tasks](https://modules.raku.org/dist/App::Tasks:cpan:JMASLAK) | Joelle Maslak | This program provides basic to-do list management. The project was initially created by its author, Joelle Maslak, to solve her particular task tracking needs. However, it's likely to be useful to others as well. <br/>*(Description taken from the module repo)*|
 
 ### For fun or educational
 :warning: *If you add an program for which you are not the author, give credit where it is due and correctly link to the main author(s).*
