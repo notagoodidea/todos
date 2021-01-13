@@ -1,4 +1,4 @@
-#!/usr/env/bin raku
+#!/usr/bin/env raku
 
 my $todo-file = "todo.txt";
 $todo-file.IO.spurt: "" unless $todo-file.IO.e;
