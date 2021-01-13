@@ -1,4 +1,4 @@
-# todos - A collection of Raku Todo list apps
+# :open_book: todos - A collection of Raku Todo list apps
 Everybody and half of his family have written or looked for todo manager app as a way to showcase a language, framework, etc.
 **Todos** only goal is to collect differents todo manager written in [Raku](https://raku.org/).
 None of the submissions must be a showcase of good pratices but they can be.
@@ -11,13 +11,14 @@ The minimum requirements for a submission is to have the following features :
 * Mark an item as DONE.
 * Show the full list of entries
 
-That's it, that's all! If you want to add anymore functionalities, please do as you wish!
-You want to provide CLI app, GUI app, Web todo manager powered by Cro, limit is the space.
+That's it, that's all! 
 
+If you want to add anymore functionalities, please do as you wish!
+You want to provide CLI app, GUI app, Web todo manager powered by Cro, limit is the space.
 
 A minimal example is provided with [notagoodidea/minimal]().
 
-## How to submit your own entry(ies)?
+## :question: How to submit your own entry(ies)?
 
 1. Fork this repo
 2. Create folder with your username
