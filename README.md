@@ -2,7 +2,7 @@
 Everybody and half of his family have written or looked for todo manager app as a way to showcase a language, framework, etc.
 **Todos** only goal is to collect differents todo manager written in [Raku](https://raku.org/).
 None of the submissions must be a showcase of good pratices but they can be.
-Set the goal you want for your submission(s). See [How to submit something]() and the [minimum requirements]() for the submission.
+Set the goal you want for your submission(s). See [How to submit something](https://github.com/notagoodidea/todos#question-how-to-submit-your-own-entryies) and the [minimum requirements](https://github.com/notagoodidea/todos#minimal-requirements) for the submission.
 
 ## Collection
 The links may point to folder in this repo or to external repos.
@@ -28,7 +28,7 @@ The links may point to folder in this repo or to external repos.
 There is two ways to submit an entry.
 
 1. If a project already exists elsewhere or you want to work in your own side, you can simply edit the `README` to add the relevant informations and links in the tables above (feel free to copy the `README` template if needed) ; 
-2. Fork this repo, create a folder with you username, do your magic, do push request and edit the `REQDME` with the relevant informations and links.
+2. Fork this repo, create a folder with you username, do your magic, do a pull request and edit the `README` with the relevant informations and links.
 
 ## Minimal requirements
 The minimum requirements for a submission is to have the following features :
