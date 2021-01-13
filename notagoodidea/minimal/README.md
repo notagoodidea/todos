@@ -27,4 +27,4 @@ Enclose your TODO item with single quote if they contains a space or any charact
 None!
 
 ## One last word?
-~~Provide one word of you choice with or without definition in the language of your choice (optional of course)~~
+Rabibocher
