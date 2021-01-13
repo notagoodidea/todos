@@ -18,10 +18,10 @@ multi sub MAIN( 'delete',
 	$todo-file.IO.spurt: @todos.join("\n");
 }
 #| Toggle a todo between TODO/DONE state (if todo doesn't exist, fails)
-multi sub MAIN( 'toggle', 
+multi sub MAIN( 'toggle',
 	Str $todo where {so @todos.first(/$todo/)}
 ) {
-	.grep(/TODO/) ?? s/TODO/DONE/ !! s/DONE/TODO/ if .grep: /$todo/ for @todos;
+	.contains("TODO") ?? s/TODO/DONE/ !! s/DONE/TODO/ for @todos.grep(/$todo/);
 	$todo-file.IO.spurt: @todos.join("\n");
 }
 #| Show all the todos
