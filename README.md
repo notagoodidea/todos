@@ -7,10 +7,10 @@ Set the goal you want for your submission(s). See [How to submit something](http
 ## Collection
 The links may point to folder in this repo or to external repos.
 
-*I will add the programs that I way meet in the wild. If you do not want your program listed here, contact me/open an issue/edit the `README`*. :warning:
+*I will add the programs that I way meet in the wild. If you do not want your program listed here, contact me/open an issue/edit the `README`*.
 
 ### Pratical, real world, production ready
-:warning: *If you add an program for which you are not the author, give credit where it is due and correctly link to the main author(s).*
+:warning: *If you add an program for which you are not the author, give credit where it is due and correctly link to the main author(s).* :warning:
 
 | Name | Author | Description/comments |
 | --- | --- | --- |
