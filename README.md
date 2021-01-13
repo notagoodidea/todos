@@ -6,7 +6,8 @@ Set the goal you want for your submission(s). See [How to submit something](http
 
 ## Collection
 The links may point to folder in this repo or to external repos.
-*I will add the programs that I way meet in the wild. If you do not want your program listed here, contact me/open an issue/edit the `README`*.
+
+*I will add the programs that I way meet in the wild. If you do not want your program listed here, contact me/open an issue/edit the `README`*. :warning:
 
 ### Pratical, real world, production ready
 :warning: *If you add an program for which you are not the author, give credit where it is due and correctly link to the main author(s).*
@@ -16,7 +17,7 @@ The links may point to folder in this repo or to external repos.
 | [App::Tasks](https://modules.raku.org/dist/App::Tasks:cpan:JMASLAK) | Joelle Maslak | This program provides basic to-do list management. The project was initially created by its author, Joelle Maslak, to solve her particular task tracking needs. However, it's likely to be useful to others as well. <br/>*(Description taken from the module repo)*|
 
 ### For fun or educational
-:warning: *If you add an program for which you are not the author, give credit where it is due and correctly link to the main author(s).*
+:warning: *If you add an program for which you are not the author, give credit where it is due and correctly link to the main author(s).* :warning:
 
 | Name | Author | Description/comments |
 | --- | --- | --- |
@@ -28,7 +29,7 @@ The links may point to folder in this repo or to external repos.
 There is two ways to submit an entry.
 
 1. If a project already exists elsewhere or you want to work in your own side, you can simply edit the `README` to add the relevant informations and links in the tables above (feel free to copy the `README` template if needed) ; 
-2. Fork this repo, create a folder with you username, do your magic, do a pull request and edit the `README` with the relevant informations and links.
+2. Fork this repo, create a folder with your username, do your magic, do a pull request and edit the `README` with the relevant informations and links.
 
 ## Minimal requirements
 The minimum requirements for a submission is to have the following features :
